@@ -1,16 +1,50 @@
-### Hi there 👋
+<h1> Seja Bem-Vindo ✨</h1>
 
-<!--
-**jltrench/jltrench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
 
-Here are some ideas to get you started:
+Olá! Sou João Lucca Trench, desenvolvedor iniciante! Desde criança amo tecnologia e computadores então decidi seguir essa carreira.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Atualmente curso Bacharelado em Ciência da Computação - Unisagrado - 2021 | 2024 - 
+📚 Estudo e busco melhorar todos os dias do ano!
+
+### Tecnologias
+
+|| - HTML
+|| - CSS
+|| - Javascript
+|| - Typescript
+|| - Vue
+
+### GitHub Stats
+
+![jltrench's Stats](https://github-readme-stats.vercel.app/api?username=jltrench&count_private=true&show_icons=true&theme=radical)
+
+### Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jltrench&show_icons=true&theme=radical)
+
+<h1> Welcome ✨</h1>
+
+### About me
+
+
+I'm João Lucca Trench, beginner developer! Since I was a child I love technology and computers so I decided to pursue this career.
+
+🎓 Currently Bachelor's Degree in Computer Science - Unisagrado - 2021 | 2024 - 
+📚 I study and seek to improve every day of the year!
+
+### Skills
+
+|| - HTML
+|| - CSS
+|| - Javascript
+|| - Typescript
+|| - Vue
+
+### GitHub Stats
+
+![jltrench's Stats](https://github-readme-stats.vercel.app/api?username=jltrench&count_private=true&show_icons=true&theme=radical)
+
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jltrench&show_icons=true&theme=radical)
