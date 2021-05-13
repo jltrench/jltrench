@@ -5,6 +5,7 @@
 Olá! Sou João Lucca Trench, desenvolvedor iniciante! Desde criança amo tecnologia e computadores então decidi seguir essa carreira.
 
 🎓 Atualmente curso Bacharelado em Ciência da Computação - Unisagrado - 2021 | 2024 - 
+
 📚 Estudo e busco melhorar todos os dias do ano!
 
 https://www.linkedin.com/in/joãoluccatrench/
@@ -40,7 +41,7 @@ https://www.linkedin.com/in/joãoluccatrench/
 ### About me
 
 
-I'm João Lucca Trench, beginner developer! Since I was a child I love technology and computers so I decided to pursue this career.
+Hi I'm João Lucca Trench, beginner developer! Since I was a child I love technology and computers so I decided to pursue this career.
 
 🎓 Currently Bachelor's Degree in Computer Science - Unisagrado - 2021 | 2024 - 
 📚 I study and seek to improve every day of the year!
