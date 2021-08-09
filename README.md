@@ -15,8 +15,7 @@ https://www.linkedin.com/in/joãoluccatrench/
 || - HTML
 || - CSS
 || - Javascript
-|| - Typescript
-|| - Vue
+|| - Java
 
 ### GitHub Stats
 
@@ -51,9 +50,7 @@ Hi I'm João Lucca Trench, beginner developer! Since I was a child I love techno
 || - HTML
 || - CSS
 || - Javascript
-|| - Typescript
-|| - Vue
-
+|| - Java
 ### GitHub Stats
 
 ![jltrench's GitHub stats](https://github-readme-stats.vercel.app/api?username=jltrench&theme=prussian&show_icons=true)
