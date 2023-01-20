@@ -2,8 +2,6 @@
 
 ### Sobre mim
 
-Olá! Sou João Lucca Trench, desenvolvedor iniciante! Desde criança amo tecnologia e computadores então decidi seguir essa carreira.
-
 🎓 Atualmente curso Bacharelado em Ciência da Computação - Unisagrado - 2021 | 2024 - 
 
 📚 Estudo e busco melhorar todos os dias do ano!
@@ -15,7 +13,6 @@ https://www.linkedin.com/in/joãoluccatrench/
 || - HTML
 || - CSS
 || - Javascript
-|| - Java
 
 ### GitHub Stats
 
@@ -39,9 +36,6 @@ https://www.linkedin.com/in/joãoluccatrench/
 
 ### About me
 
-
-Hi I'm João Lucca Trench, beginner developer! Since I was a child I love technology and computers so I decided to pursue this career.
-
 🎓 Currently Bachelor's Degree in Computer Science - Unisagrado - 2021 | 2024 - 
 📚 I study and seek to improve every day of the year!
 
@@ -50,7 +44,7 @@ Hi I'm João Lucca Trench, beginner developer! Since I was a child I love techno
 || - HTML
 || - CSS
 || - Javascript
-|| - Java
+
 ### GitHub Stats
 
 ![jltrench's GitHub stats](https://github-readme-stats.vercel.app/api?username=jltrench&theme=prussian&show_icons=true)
