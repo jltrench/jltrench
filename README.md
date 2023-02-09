@@ -8,11 +8,10 @@
 
 https://www.linkedin.com/in/joãoluccatrench/
 
-### Tecnologias
-
-|| - HTML
-|| - CSS
-|| - Javascript
+### Tecnologias<br/>
+ - HTML - <br/>
+ - CSS - <br/>
+ - Javascript -
 
 ### GitHub Stats
 
