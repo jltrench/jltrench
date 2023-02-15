@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-🎓 Atualmente curso Bacharelado em Ciência da Computação - Unisagrado - 2021 | 2024 - 
+🎓 Atualmente curso Análise e Desenvolvimento de Sistemas - FIAP - 2023 | 2024 - 
 
 📚 Estudo e busco melhorar todos os dias do ano!
 
