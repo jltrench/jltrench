@@ -1,31 +1,30 @@
-<h1> Seja Bem-Vindo ✨</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61DBFB&height=120&section=header"/>
 
-### Sobre mim
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=61DBFB&size=45&center=true&vCenter=true&width=1000&lines=WELCOME+👋;+I'm+João+Lucca+Trench;+I'm+a+Frontend+Developer;:%29)](https://git.io/typing-svg)
 
-🎓 Atualmente curso Análise e Desenvolvimento de Sistemas - FIAP - 2023 | 2024 - 
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF0000&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=0059A9&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Three.js](https://img.shields.io/badge/-Three.js-0D1117?style=for-the-badge&logo=three.js&labelColor=0D1117)&nbsp;
 
-📚 Estudo e busco melhorar todos os dias do ano!
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jltrench&bg_color=383838&color=1bb4da&line=61dbfb&point=2a393c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-https://www.linkedin.com/in/joãoluccatrench/
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jltrench&show_icons=true&count_private=true&hide_border=true&title_color=61DBFB&icon_color=61DBFB&text_color=61DBFB&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jltrench&layout=compact&hide_border=true&title_color=61DBFB&text_color=61DBFB&bg_color=0d1117" />
+</div>
 
-### Tecnologias<br/>
- - HTML  <br/>
- - CSS  <br/>
- - Javascript 
+### Learning:
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=SpringBoot&labelColor=0D1117)&nbsp;
 
-### GitHub Stats
+### My Socials:
+<div align="center"> 
+<a href = "mailto:cmp.1a.jltrench@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jltrench/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
-
-![jltrench's GitHub stats](https://github-readme-stats.vercel.app/api?username=jltrench&theme=prussian&show_icons=true)
-
-
-
-### Linguagens mais usadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jltrench&layout=compact)](https://github.com/jltrench/github-readme-stats)
-
- <p align="center">
-    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/76f799f4-acae-4f54-9a0a-a3f02a479ef1/d4vwhge-682589df-6666-4097-aaf0-3a86229a8484.png/v1/fill/w_350,h_350,strp/bigger_8_bit_squirtle_by_mickiart14_d4vwhge-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzUwIiwicGF0aCI6IlwvZlwvNzZmNzk5ZjQtYWNhZS00ZjU0LTlhMGEtYTNmMDJhNDc5ZWYxXC9kNHZ3aGdlLTY4MjU4OWRmLTY2NjYtNDA5Ny1hYWYwLTNhODYyMjlhODQ4NC5wbmciLCJ3aWR0aCI6Ijw9MzUwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.8_MqVORP7SLjMs1l_MIsd1y-R1B_z47W5ddGOSfOms0" height="80px">
-    <img src="https://i.pinimg.com/originals/22/fc/aa/22fcaa31983cff8a106aa4f58cf41e80.png" height="190px">
-    <img src="https://img.pokemondb.net/sprites/sword-shield/normal/blastoise.png" height="200px">
- </p>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61DBFB&height=120&section=footer"/>
