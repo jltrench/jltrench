@@ -9,8 +9,6 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Three.js](https://img.shields.io/badge/-Three.js-0D1117?style=for-the-badge&logo=three.js&labelColor=0D1117)&nbsp;
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jltrench&bg_color=383838&color=1bb4da&line=61dbfb&point=2a393c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jltrench&show_icons=true&count_private=true&hide_border=true&title_color=61DBFB&icon_color=61DBFB&text_color=61DBFB&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jltrench&layout=compact&hide_border=true&title_color=61DBFB&text_color=61DBFB&bg_color=0d1117" />
