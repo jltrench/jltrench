@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61DBFB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=61DBFB&size=45&center=true&vCenter=true&width=1000&lines=WELCOME+👋;+I'm+João+Lucca+Trench;+I'm+a+Flutter+Developer;:%29)](https://git.io/typing-svg)
+Flutter & JS Developer 
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF0000&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
