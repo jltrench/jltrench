@@ -6,7 +6,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jltrench&show_icons=true&count_private=true&hide_border=true&title_color=61DBFB&icon_color=61DBFB&text_color=61DBFB&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jltrench&show_icons=true&count_private=true&hide_border=true&title_color=61DBFB&icon_color=61DBFB&text_color=61DBFB&bg_color=0d1117" alt="jltrench github status" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jltrench&layout=compact&hide_border=true&title_color=61DBFB&text_color=61DBFB&bg_color=0d1117" />
 </div>
 
