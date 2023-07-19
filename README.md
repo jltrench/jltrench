@@ -1,7 +1,11 @@
 ## Flutter Developer
 ### Becomig a Fullstack Developer
 <p align="center">
-   Flutter - Nest.js - MySQL
+   Flutter - <p style="color:red">Nest.js</p> - MySQL
+</p>
+
+<p align="center">
+   Currently studying Systems Analysis and Development - <p >FIAP</p>
 </p>
 
 ### My Socials:
