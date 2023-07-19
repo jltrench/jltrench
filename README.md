@@ -1,8 +1,8 @@
-<div align="center>
+
   # Becomig a Fullstack Developer
   ### Flutter - Nest.js - MySQL
   > Test
-</div>
+
 
 ### My Socials:
 <div align="center"> 
