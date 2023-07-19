@@ -1,4 +1,4 @@
-## Flutter Developer
+## Flutter Developer :flight_departure:
 ### Becomig a Fullstack Developer
 <p align="center">
    Flutter - Nest.js - MySQL
