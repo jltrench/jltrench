@@ -1,20 +1,3 @@
-## Flutter Developer :flight_departure:
-### Becomig a Fullstack Developer
-<p align="center">
-   Flutter - Nest.js - MySQL
-</p>
-
-<p align="center">
-   Currently studying Systems Analysis and Development - FIAP
-</p>
-
-### My Socials:
-<div align="center"> 
-<a href = "mailto:jltrench@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jltrench/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-<hr/>
-
- > I'm not a great programmer; I'm just a good programmer with great habits. - Kent Beck
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjltrench&countColor=%23d9e3f0&style=plastic)
+[![GitHub](https://img.shields.io/github/followers/jltrench?label=follow&style=social)](https://github.com/jltrench)&nbsp;
 
