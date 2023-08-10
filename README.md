@@ -35,9 +35,7 @@
     <img src="https://skillicons.dev/icons?i=nestjs,flutter,react,express" />
     <h3>Database</h3>
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite"/>
-    <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,postman,prisma,bash,vscode,idea," />
-
+ 
 </div>
 
 <br/>
