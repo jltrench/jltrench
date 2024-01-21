@@ -2,7 +2,7 @@
 
 I'm João Lucca Trench
 
-fullstack engineer with 愛
+fullstack engineer
 
 #### ◻️ about me
 
