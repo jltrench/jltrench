@@ -1,16 +1,15 @@
 ### :wave: hi!
 
-I'm João Lucca Trench
-
-fullstack engineer
 
 #### ◻️ about me
 
+
+> FullStack Engineer
 - [my learning/xp profile](https://github.com/jltrenchDEV)
-- frontend: react, next.
-- backend: node/nestjs, fastify.
-- ORM: typeorm, prisma.
-- mobile: flutter-dart.
+- frontend: svelte, react and next.
+- backend: node, nestjs and sveltekit.
+- ORM: drizzle, typeorm and prisma.
+- mobile: flutter.
 - databases: mysql, postgres, mongodb.
 - currently learning: golang.
 
