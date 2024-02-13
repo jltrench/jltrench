@@ -4,7 +4,7 @@
 #### ◻️ about me
 
 
-> FullStack Develoepr
+> FullStack Developer
 - [my learning/xp profile](https://github.com/jltrenchDEV)
 - frontend: svelte, react and next.
 - backend: node and nestjs.
