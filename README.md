@@ -7,9 +7,9 @@
 > FullStack Develoepr
 - [my learning/xp profile](https://github.com/jltrenchDEV)
 - frontend: svelte, react and next.
-- backend: node, nestjs and sveltekit.
+- backend: node and nestjs.
 - ORM: drizzle, typeorm and prisma.
 - mobile: flutter.
-- databases: mysql, postgres, mongodb.
-- currently learning: golang.
+- databases: mysql, postgres and sqlite.
+- currently learning: go.
 
