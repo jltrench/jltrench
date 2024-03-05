@@ -1,10 +1,3 @@
-### :wave: hi!
-
-
-#### ◻️ about me
-
-
-> FullStack Developer
 - [my learning/xp profile](https://github.com/jltrenchDEV)
 - frontend: svelte, react and next.
 - backend: node and nestjs.
@@ -12,4 +5,3 @@
 - mobile: flutter.
 - databases: mysql, postgres and sqlite.
 - currently learning: go.
-
