@@ -1,7 +1,6 @@
 - [my learning/xp profile](https://github.com/jltrenchDEV)
-- frontend: svelte, react and next.
-- backend: node and nestjs.
-- ORM: drizzle, typeorm and prisma.
-- mobile: flutter.
-- databases: mysql, postgres and sqlite.
-- currently learning: go.
+- 💻 frontend: svelte, react and next.
+- ☁️ backend: node(fastify and nestjs).
+- 📱 mobile: react native and flutter.
+- 🐬 databases: mysql, postgres and sqlite.
+- 📓 currently learning: kotlin and rust.
