@@ -3,4 +3,3 @@
 - ☁️ backend: node(fastify and nestjs).
 - 📱 mobile: react native and flutter.
 - 🐬 databases: mysql, postgres and sqlite.
-- 📓 currently learning: go and rust.
